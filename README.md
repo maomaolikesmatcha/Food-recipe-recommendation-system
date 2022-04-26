@@ -3,7 +3,8 @@ Inspired by Jack Leitch
 
 ## Project Motivation
 Cooking is a hobby for some and a major problem for others. 
-However, you can always use a helping hand for cooking. ( ◑‿◑)ɔ┏🍟--🍔┑٩(^◡^ )
+However, you can always use a helping hand for cooking. 
+( ◑‿◑)ɔ┏🍟--🍔┑٩(^◡^ ) Happy Cooking!!!
 
 ## Project Goal 
 Build a data-driven full-stack recipe recommendation engine including but not limited to data such as ingredients and health facts.
