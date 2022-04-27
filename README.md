@@ -21,7 +21,8 @@ Build a data-driven full-stack recipe recommendation engine including but not li
 ## App Descripetion
 🧑‍🍳 Given a list of ingredients, what are different recipes I can make? 
 That is, what recipes can I make with the food I have in my fridge?
-The app is here! Try it out yourself: https://share.streamlit.io/maomaolikesmatcha/food-recipe-recommendation-system/main/Streamlit.py
+The app is here! Try it out yourself: 
+https://share.streamlit.io/maomaolikesmatcha/food-recipe-recommendation-system/main/Streamlit.py
 
 ### Reference used in this project:
 https://sophiepeanut.com/illustration-portfolio-sketches/illustrated-recipes-by-sophie-peanut/
